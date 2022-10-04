@@ -1,2 +1,2 @@
-# ibm-agile-catalog
+# agile-final-project
 Agile development catalog project
